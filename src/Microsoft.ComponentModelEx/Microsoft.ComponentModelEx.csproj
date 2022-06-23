@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\Microsoft.ComponentModelEx.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
